@@ -1,4 +1,5 @@
 # fx506lh-hackintosh-efi
+# OpenCore for Asus Tuf Gaming f15 FX506LH
 Work on MacOs Monterey-Sonoma
 Specs  | Status
 ------------- | -------------
