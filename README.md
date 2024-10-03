@@ -1,4 +1,4 @@
-### OpenCore for Asus Tuf Gaming f15 FX506LH
+# OpenCore for FX506LH
 ## Monterrey-Sequoia
 Specs  | Status
 ------------- | -------------
