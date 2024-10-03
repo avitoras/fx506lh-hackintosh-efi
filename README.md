@@ -10,4 +10,4 @@ Storage  | Micron NVMe :white_check_mark:
 Ethernet  | RTL8168/8111 :white_check_mark:
 WiFi & BT  | MT7921E :x:
 Touchpad  | ELAN I2C HID :x: :white_check_mark:
-Battery & Status | :white_check_mark:
+Battery & Status | A32-K55 :white_check_mark:
