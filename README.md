@@ -1,5 +1,5 @@
 ### OpenCore for Asus Tuf Gaming f15 FX506LH
-Work on MacOs Monterey-Sonoma
+## Monterrey-Sequoia
 Specs  | Status
 ------------- | -------------
 CPU  | i5-10300H :white_check_mark:
